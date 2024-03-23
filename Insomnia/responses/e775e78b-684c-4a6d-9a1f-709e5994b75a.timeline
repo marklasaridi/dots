@@ -1,0 +1,302 @@
+[
+	{
+		"value": "Preparing request to https://www.dns-shop.ru/product/971f9eef3a4bed20/processor-amd-ryzen-7-5700g-oem/",
+		"name": "Text",
+		"timestamp": 1707891422507
+	},
+	{
+		"value": "Current time is 2024-02-14T06:17:02.507Z",
+		"name": "Text",
+		"timestamp": 1707891422507
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1707891422507
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1707891422509
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1707891422509
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1707891422509
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 185.65.148.196:443...\n",
+		"timestamp": 1707891422516
+	},
+	{
+		"name": "Text",
+		"value": "Connected to www.dns-shop.ru (185.65.148.196) port 443 (#0)\n",
+		"timestamp": 1707891422564
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1707891422568
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1707891422568
+	},
+	{
+		"name": "Text",
+		"value": " CAfile: /etc/ssl/certs/ca-certificates.crt\n",
+		"timestamp": 1707891422623
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.0 (OUT), TLS header, Certificate Status (22):\n",
+		"timestamp": 1707891422623
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1707891422623
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Certificate Status (22):\n",
+		"timestamp": 1707891422677
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1707891422677
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Finished (20):\n",
+		"timestamp": 1707891422678
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422678
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n",
+		"timestamp": 1707891422678
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422678
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1707891422680
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, CERT verify (15):\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Finished (20):\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "ALPN, server accepted to use http/1.1\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": "Server certificate:\n",
+		"timestamp": 1707891422682
+	},
+	{
+		"name": "Text",
+		"value": " subject: C=RU; ST=Primorsky krai; L=Vladivostok; O=DNS RETAIL LLC; CN=*.dns-shop.ru\n",
+		"timestamp": 1707891422683
+	},
+	{
+		"name": "Text",
+		"value": " start date: Jun  6 01:21:03 2023 GMT\n",
+		"timestamp": 1707891422683
+	},
+	{
+		"name": "Text",
+		"value": " expire date: Jul  7 01:21:02 2024 GMT\n",
+		"timestamp": 1707891422683
+	},
+	{
+		"name": "Text",
+		"value": " subjectAltName: host \"www.dns-shop.ru\" matched cert's \"*.dns-shop.ru\"\n",
+		"timestamp": 1707891422683
+	},
+	{
+		"name": "Text",
+		"value": " issuer: C=BE; O=GlobalSign nv-sa; CN=GlobalSign RSA OV SSL CA 2018\n",
+		"timestamp": 1707891422683
+	},
+	{
+		"name": "Text",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1707891422683
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (OUT), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422683
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /product/971f9eef3a4bed20/processor-amd-ryzen-7-5700g-oem/ HTTP/1.1\r\nHost: www.dns-shop.ru\r\nUser-Agent: insomnia/8.5.1\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1707891422683
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422732
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1707891422732
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422732
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n",
+		"timestamp": 1707891422733
+	},
+	{
+		"name": "Text",
+		"value": "old SSL session ID is stale, removing\n",
+		"timestamp": 1707891422733
+	},
+	{
+		"name": "Text",
+		"value": "TLSv1.2 (IN), TLS header, Supplemental data (23):\n",
+		"timestamp": 1707891422733
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 401 Unauthorized\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Server: QRATOR\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Wed, 14 Feb 2024 06:17:02 GMT\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: text/html\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=15\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Cache-Control: no-cache, no-store, must-revalidate\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Pragma: no-cache\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Expires: 0\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Set-Cookie: qrator_jsr=1707891422.710.0hvebJ5KYr5QaSez-i0mnpvmco7rb0co1nmkje2nr6j2fsa1q-00; Max-Age=300; Path=/; SameSite=None; Secure; Domain=.dns-shop.ru;\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1707891422743
+	},
+	{
+		"name": "Text",
+		"value": "Received 8.4 KB chunk",
+		"timestamp": 1707891422744
+	},
+	{
+		"name": "Text",
+		"value": "Connection #0 to host www.dns-shop.ru left intact\n",
+		"timestamp": 1707891422744
+	}
+]

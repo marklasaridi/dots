@@ -2,8 +2,15 @@
 	"layer": "top",
 	"modules-left": ["custom/launcher","cpu","memory","custom/media","tray"],
 	"modules-center": ["hyprland/workspaces"],
-	"modules-right": ["custom/updates","custom/wallpaper","backlight","pulseaudio","clock", "battery","custom/power"],
-	
+	"modules-right": ["pulseaudio","clock","custom/ip","custom/power"],
+
+  "custom/ip": {
+    "exec": "$HOME/Documents/Coding/bash_scripts/public_ip/public_ip.sh",
+    "interval": 180,
+    "format": "󰲐 {}",
+    "tooltip": false
+  },
+
 	"pulseaudio": {
 		"tooltip": false,
 		"scroll-step": 5,
@@ -20,6 +27,9 @@
              		"*": 5, // 5 workspaces by default on every monitor
 		},
      		"format": "{icon}",
+        "format-icons": {
+        "6": "",
+        },
      		"on-scroll-up": "hyprctl dispatch workspace e+1",
      		"on-scroll-down": "hyprctl dispatch workspace e-1"
 	},
@@ -56,7 +66,8 @@
 		"spacing": 10
 	},
     "clock": {
-        "format": "{: %H:%M  󰃭 %d/%m/%Y}"
+        "format": " {:%H:%M 󰃭 %d/%m/%Y}",
+        "on-click": "kitty tty-clock -c"
     },
     "cpu": {
         "interval": 15,
@@ -84,11 +95,13 @@
     "custom/launcher":{
         "format": " ",
         "on-click": "wofi --show drun",
-        "on-click-right": "killall wofi"
+        "on-click-right": "killall wofi",
+        "tooltip": false
     },
     "custom/power":{
-        "format": " ",
+        "format": " ",
         "on-click": "bash ~/.config/rofi/leave/leave.sh",
+        "tooltip": false
     },
     "custom/updates":{
         "format": "{} Update(s)",

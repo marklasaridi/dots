@@ -1,0 +1,9 @@
+[virt-viewer]
+share-clipboard=true
+ask-quit=true
+#openrc-i3wm
+[944ee2f1-d3c3-4493-889b-3cce0a78d9b3]
+monitor-mapping=1:1;
+#arch
+[40e73301-b798-4a0e-9d00-4af9655e48da]
+monitor-mapping=1:1;

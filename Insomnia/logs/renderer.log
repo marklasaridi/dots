@@ -1,0 +1,13 @@
+[2024-02-14 13:15:42.420] [info]  [db] Initialized DB client
+[2024-02-14 13:17:02.767] [info]  [network] Response succeeded req=req_502d79fb98c04aa3afdb8f962ffbf0e3 status=401
+[2024-02-14 13:17:54.647] [info]  [network] Response succeeded req=req_502d79fb98c04aa3afdb8f962ffbf0e3 status=401
+[2024-02-14 13:18:41.617] [info]  [network] Response succeeded req=req_502d79fb98c04aa3afdb8f962ffbf0e3 status=401
+[2024-02-14 13:19:32.425] [info]  [network] Response succeeded req=req_502d79fb98c04aa3afdb8f962ffbf0e3 status=401
+[2024-02-14 13:19:42.342] [warn]  <Item> with non-plain text contents is unsupported by type to select for accessibility. Please add a `textValue` prop.
+[2024-02-14 13:19:42.342] [warn]  <Item> with non-plain text contents is unsupported by type to select for accessibility. Please add a `textValue` prop.
+[2024-02-14 13:19:42.343] [warn]  <Item> with non-plain text contents is unsupported by type to select for accessibility. Please add a `textValue` prop.
+[2024-02-14 13:19:42.343] [warn]  <Item> with non-plain text contents is unsupported by type to select for accessibility. Please add a `textValue` prop.
+[2024-02-14 13:19:42.343] [warn]  <Item> with non-plain text contents is unsupported by type to select for accessibility. Please add a `textValue` prop.
+[2024-02-14 13:19:42.343] [warn]  <Item> with non-plain text contents is unsupported by type to select for accessibility. Please add a `textValue` prop.
+[2024-02-14 13:19:42.344] [warn]  <Item> with non-plain text contents is unsupported by type to select for accessibility. Please add a `textValue` prop.
+[2024-02-14 13:19:42.344] [warn]  <Item> with non-plain text contents is unsupported by type to select for accessibility. Please add a `textValue` prop.

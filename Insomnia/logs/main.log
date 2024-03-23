@@ -1,0 +1,21 @@
+[2024-02-14 13:15:41.136] [info]  Running version 8.5.1
+[2024-02-14 13:15:41.350] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2024-02-14 13:15:41.374] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2024-02-14 13:15:41.418] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2024-02-14 13:15:41.588] [info]  [fix] Running database repairs
+[2024-02-14 13:15:41.639] [info]  [db] Initialized DB at /home/arch/.config/Insomnia/insomnia.$TYPE.db
+[2024-02-14 13:15:41.639] [info]  [db] Init responses DB
+[2024-02-14 13:15:41.639] [info]  [db] Init websocket-responses DB
+[2024-02-14 13:15:41.643] [info]  Initializing Scratch Pad Project
+[2024-02-14 13:15:41.644] [info]  Initializing Scratch Pad
+[2024-02-14 13:15:41.644] [info]  [localstorage] Initialized at /home/arch/.config/Insomnia/localStorage
+[2024-02-14 13:15:41.693] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2024-02-14 13:15:41.702] [info]  [updater] Not supported on this platform linux
+[2024-02-14 13:15:42.975] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2024-02-14 13:15:42.978] [info]  [main] Checking for newer version than  8.5.1
+[2024-02-14 13:15:43.739] [info]  [main] Found newer version {
+  url: 'https://github.com/Kong/insomnia/releases/download/core@8.6.1/Insomnia.Core-8.6.1.zip',
+  name: '8.6.1'
+}
+[2024-02-14 13:15:43.741] [info]  Exported backup to: /home/arch/.config/Insomnia/backups/8.5.1
