@@ -2,12 +2,19 @@
 	"layer": "top",
 	"modules-left": ["custom/launcher","cpu","memory","custom/media","tray"],
 	"modules-center": ["hyprland/workspaces"],
-	"modules-right": ["pulseaudio","clock","custom/ip","custom/power"],
+	"modules-right": ["pulseaudio","clock","custom/btc-price","custom/ip","custom/power"],
 
   "custom/ip": {
     "exec": "$HOME/Documents/Coding/bash_scripts/public_ip/public_ip.sh",
     "interval": 180,
     "format": "󰲐 {}",
+    "tooltip": false
+  },
+
+  "custom/btc-price": {
+    "exec": "$HOME/.config/hypr/scripts/btc_price.py",
+    "interval": 600,
+    "format": " {} USD",
     "tooltip": false
   },
 
